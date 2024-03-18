@@ -48,3 +48,4 @@ python app.py
 
 Isso iniciará o processo de importação dos dados do arquivo xlsx para o PostgreSQL e, em seguida, exportará os dados do PostgreSQL de volta para um arquivo xlsx.
 
+**Desenvolvido por [William Faria](https://github.com/wmfariadev)**
